@@ -2,15 +2,14 @@
     background-color: rgb(231, 141, 127);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
-#id {
-    color: blue;
+#two {
+    color: #0000ff;
     font-size: 36px;
 }
-.pink-bckgrnd.cooler {
-    font-size: 24px;
+.adjust-font-size {
+  font-size: 24px;
 }
-.another {
+#four {
     background-color: rgb(129, 223, 129);
-    font-size: 24px;
     font-weight: bold;
 }
