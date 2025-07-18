@@ -1,5 +1,8 @@
 p {
     background-color: rgb(231, 141, 127);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
-    
+}
+#id {
+    color: blue;
+    font-size: 36px;
 }
